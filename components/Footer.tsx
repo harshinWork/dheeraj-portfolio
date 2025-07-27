@@ -16,7 +16,9 @@ const Footer = () => {
         /> */}
 
         <Image
-          src="/footer-grid.svg"
+
+          src={`dheeraj-portfolio/footer-grid.svg`}
+
           alt="grid"
           fill
           className="w-full h-full opacity-50 object-cover"
@@ -52,7 +54,7 @@ const Footer = () => {
               className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300"
             >
               {/* <img src={info.img} alt="icons" width={20} height={20} /> */}
-              <Image src={info.img} alt="icons" width={20} height={20} />
+              <Image src={`dheeraj-portfolio${info.img}`} alt="icons" width={20} height={20} />
             </div>
           ))}
         </div>
