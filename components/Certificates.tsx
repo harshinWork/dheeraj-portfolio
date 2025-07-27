@@ -11,7 +11,7 @@ const CertificatesPage = () => {
           <div key={cert.id} className="border p-4 rounded shadow">
             <Image
               src={cert.image}
-              alt={cert.title}
+              alt={cert.description}
               width={400}
               height={300}
               className="mb-4 rounded mx-auto"
