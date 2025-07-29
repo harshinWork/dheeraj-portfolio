@@ -167,14 +167,33 @@ export const certificates = [
   {
     id: 1,
     image: "/dheeraj-portfolio/certs/CertificateKaggleSQL.png",
-    description: "React Developer Certificate by XYZ Academy",
+    description: "Kaggle SQL Certificate",
     fileName: "Kaggle-SQL.pdf",
   },
   {
     id: 2,
     image: "/dheeraj-portfolio/certs/MachineLearning.png",
-    description: "Advanced JavaScript Course Completion",
+    description: "L&T Machine Learning Certificate",
     fileName: "Machine-Learning.pdf",
+  },
+
+  {
+    id: 3,
+    image: "/dheeraj-portfolio/certs/Certificate-Design.png",
+    description: "L&T Design Thinking Certificate",
+    fileName: "Design-Thinking.pdf",
+  },
+  {
+    id: 4,
+    image: "/dheeraj-portfolio/certs/Certificate-DeepLearning.png",
+    description: "L&T Deep Learning Certificate",
+    fileName: "Deep-Learning.pdf",
+  },
+  {
+    id: 5,
+    image: "/dheeraj-portfolio/certs/Certificate-SmartInternz.png",
+    description: "SmartInternz Externship",
+    fileName: "Certificate-SmartInternz.pdf",
   },
   // Add more certificates here
 ];
