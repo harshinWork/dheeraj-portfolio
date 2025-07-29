@@ -179,21 +179,21 @@ export const certificates = [
 
   {
     id: 3,
-    image: "/dheeraj-portfolio/certs/Certificate-Design.png",
+    image: "/dheeraj-portfolio/certs/CertificateDesign.png",
     description: "L&T Design Thinking Certificate",
-    fileName: "Design-Thinking.pdf",
+    fileName: "DesignThinking.pdf",
   },
   {
     id: 4,
-    image: "/dheeraj-portfolio/certs/Certificate-DeepLearning.png",
+    image: "/dheeraj-portfolio/certs/CertificateDeepLearning.png",
     description: "L&T Deep Learning Certificate",
-    fileName: "Deep-Learning.pdf",
+    fileName: "DeepLearning.pdf",
   },
   {
     id: 5,
-    image: "/dheeraj-portfolio/certs/Certificate-SmartInternz.png",
+    image: "/dheeraj-portfolio/certs/CertificateSmartInternz.png",
     description: "SmartInternz Externship",
-    fileName: "Certificate-SmartInternz.pdf",
+    fileName: "CertificateSmartInternz.pdf",
   },
   // Add more certificates here
 ];
