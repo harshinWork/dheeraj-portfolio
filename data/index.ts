@@ -64,7 +64,7 @@ export const projects = [
     id: 2,
     title: "Dog Breed Identification System",
     des: "Developed a high-accuracy dog breed classifier using transfer learning with VGG19 and Keras. Achieved 99% validation accuracy.",
-    img: "/dheeraj-portfolio/p2.svg",
+    img: "/dheeraj-portfolio/p2.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
