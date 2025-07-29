@@ -30,7 +30,7 @@ const RecentProjects = () => {
                   <img src="/bg.png" alt="bgimg" />
                 </div>
                 <img
-                  src={item.img}
+                  src={`${item.img}`}
                   // src={`dheeraj-portfolio${item.img}`}
 
                   alt="cover"
