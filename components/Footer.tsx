@@ -17,7 +17,7 @@ const Footer = () => {
 
         <Image
 
-          src={`dheeraj-portfolio/footer-grid.svg`}
+          src={`/footer-grid.svg`}
 
           alt="grid"
           fill
