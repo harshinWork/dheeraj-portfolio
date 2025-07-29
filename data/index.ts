@@ -56,7 +56,7 @@ export const projects = [
     id: 1,
     title: "Personalized Learning Platform",
     des: "Built an AI-driven platform that creates tailored learning roadmaps based on user input. Developed with Python, JavaScript, and HTML/CSS.",
-    img: "/dheeraj-portfolio/p1.svg",
+    img: "/dheeraj-portfolio/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
