@@ -15,14 +15,7 @@ const Footer = () => {
           className="w-full h-full opacity-50 "
         /> */}
 
-        <Image
-
-          src={`/footer-grid.svg`}
-
-          alt="grid"
-          fill
-          className="w-full h-full opacity-50 object-cover"
-        />
+        
       </div>
 
       <div className="flex flex-col items-center">
